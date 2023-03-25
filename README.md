@@ -13,7 +13,7 @@ NIM : 2109116091
 
 3. Simpan data akun ke dalam local storage
 
-![Screenshot (335)](https://user-images.githubusercontent.com/120237026/227738097-004fc169-9e4b-4d0f-80df-e0d4e8a469c2.png)
+![Screenshot (336)](https://user-images.githubusercontent.com/120237026/227738190-c42fb8b6-2ec0-4449-9e03-362d4844ac27.png)
 
 4. Beranda
 

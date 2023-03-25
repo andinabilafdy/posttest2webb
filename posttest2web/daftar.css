@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.textsignup{
+    padding-top: 20px;
+}
+
+.boxlogin{
+    margin: 30px 300px;
+    background: #D9ACF5;
+    border: #000000;
+    height: 75vh;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+  /* Full-width inputs */
+  input[type=text], [type=email], input[type=password] {
+    width: 70%;
+    padding: 12px 15px;
+    margin: 8px 10px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+  
+  /* Set a style for all buttons */
+  button {
+    background-color: #609966;
+    color: white;
+    font-size: 15px;
+    margin-top: 25px;
+    padding: 14px 30px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    width: 40%;
+  }
+  
+  /* Add a hover effect for buttons */
+  button:hover {
+    opacity: 0.8;
+  }
+  
+  /* Center the avatar image inside this container */
+  .imgcontainer {
+    text-align: center;
+    width: 40%;
+    margin: 20px 400px 12px 400px;
+  }
+  
+  /* Avatar image */
+  img.avatar {
+    width: 40%;
+  }
+  
+  /* Add padding to containers */
+  .containerlogin {
+    padding: 16px;
+  }
+
+.container1 {
+    padding-left: 155px;
+    padding-top: 22px;
+    padding-bottom: 20px;
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
+.medsos{
+    padding: 5px 0;
+    background-color: #E97777;
+}
+
+.medsos ul li{
+    display: inline-block;
+    color: white;
+    margin-right: 10px;
+}
+
+.home{
+    background-color: #F0F0F0;
+    padding-bottom: 20px;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.container:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.udhlogin{
+    padding-top: 20px;
+    padding-bottom: 80px;
+}
